@@ -1,0 +1,1 @@
+Trained in Google Colab using the Free GPU. Capable of detecting 80 types of objects. Courtesy to Andrew for the tutorial and the original detecting files (along with the procedure.
